@@ -1,0 +1,119 @@
+# Config file!
+
+## Damage indicator ##
+damage-indicator: true
+damage-indocator-format: "#,###.0"
+
+## Utilities ##
+permanent-id: '03ce5f3d-021a-4a52-9107-63a81a36b426'
+
+
+## Zombie Slayer XP Level Requirements ##
+Zombie:
+  Levels:
+    1:
+      xp: 5
+    2:
+      xp: 15
+    3:
+      xp: 200
+    4:
+      xp: 1000
+    5:
+      xp: 5000
+    6:
+      xp: 20000
+    7:
+      xp: 100000
+    8:
+      xp: 400000
+    9:
+      xp: 1000000
+
+## Spider Slayer XP Level Requirements ##
+Spider:
+  Levels:
+    1:
+      xp: 5
+    2:
+      xp: 25
+    3:
+      xp: 200
+    4:
+      xp: 1000
+    5:
+      xp: 5000
+    6:
+      xp: 20000
+    7:
+      xp: 100000
+    8:
+      xp: 400000
+    9:
+      xp: 1000000
+
+## Wolf Slayer XP Level Requirements ##
+Wolf:
+  Levels:
+    1:
+      xp: 10
+    2:
+      xp: 30
+    3:
+      xp: 250
+    4:
+      xp: 1500
+    5:
+      xp: 5000
+    6:
+      xp: 20000
+    7:
+      xp: 100000
+    8:
+      xp: 400000
+    9:
+      xp: 1000000
+
+## Enderman Slayer XP Level Requirements ##
+Enderman:
+  Levels:
+    1:
+      xp: 10
+    2:
+      xp: 30
+    3:
+      xp: 250
+    4:
+      xp: 1500
+    5:
+      xp: 5000
+    6:
+      xp: 20000
+    7:
+      xp: 100000
+    8:
+      xp: 400000
+    9:
+      xp: 1000000
+
+## Blaze Slayer XP Level Requirements ##
+Blaze:
+  Levels:
+    1:
+      xp: 10
+    2:
+      xp: 30
+    3:
+      xp: 250
+    4:
+      xp: 1500
+    5:
+      xp: 5000
+    6:
+      xp: 20000
+    7:
+      xp: 100000
+    8:
+      xp: 400000
+    9:
+      xp: 1000000

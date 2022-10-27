@@ -1,0 +1,12 @@
+name: Hypixel Slayers
+version: ${project.version}
+main: com.guccifox.slayers.Slayers
+api-version: 1.14
+authors: [ Gucci Fox ]
+description: Hypixel Skyblock Slayers
+website: guccifoxdev.xyz
+commands:
+  slayer:
+  spawnboss:
+  batphone:
+  unbreakable:

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HypixelSlayers:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c6130df-10d7-474e-89dc-05f51cfae805" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3c97f3f27f9e5c7f14c176a14f97bb9c29266066" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AJmGPjefkXX7Ffm4GDKLftEUZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/tapps/codingstuff/mcplugins/HypixelSlayers",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tapps\mcplugins\HypixelSlayers\src\main\resources" />
+      <recent name="C:\Users\tapps\mcplugins\HypixelSlayers\src\main\java" />
+      <recent name="C:\Users\tapps\mcplugins\HypixelSlayers\src\main\java\com\guccifox\slayers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="c9f26337-582c-4b06-b0ec-51d15a31abc9" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c6130df-10d7-474e-89dc-05f51cfae805" name="Changes" comment="" />
+      <created>1654735965853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654735965853</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1661366803213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661366803213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update xp checks for every slayer">
+      <created>1661366959683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661366959683</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update xp checks for every slayer">
+      <created>1661367294534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661367294534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test">
+      <created>1661367459241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661367459241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test">
+      <created>1661367519846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661367519846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create slayer drop item classes; TODO: create the items">
+      <created>1661447915453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661447915453</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change &quot;item&quot; package name to &quot;items&quot;">
+      <created>1661448031146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661448031146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add a few rev drops">
+      <created>1661451866378</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661451866378</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Make a seperate zombie slayer sound class; Make a constructor for boss spawning (less code)">
+      <created>1661524402119</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661524402119</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Make a seperate zombie slayer sound class; Make a constructor for boss spawning (less code)">
+      <created>1661524459679</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661524459679</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Shorten code">
+      <created>1661524529258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661524529258</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix file mkdir bug">
+      <created>1662062495943</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662062495943</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create EVERY Revenant Horror drop; Create cosmetic rarity">
+      <created>1662141336601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662141336601</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix slayer xp not saving to right location">
+      <created>1662142124701</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662142124701</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Clean up leveling and added comments">
+      <created>1665853281939</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665853281939</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Boing! I'm so pro rn">
+      <created>1666907450191</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666907450191</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added stoof">
+      <created>1666907675490</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666907675490</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Update xp checks for every slayer" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Create slayer drop item classes; TODO: create the items" />
+    <MESSAGE value="Change &quot;item&quot; package name to &quot;items&quot;" />
+    <MESSAGE value="Add a few rev drops" />
+    <MESSAGE value="Make a seperate zombie slayer sound class; Make a constructor for boss spawning (less code)" />
+    <MESSAGE value="Shorten code" />
+    <MESSAGE value="Fix file mkdir bug" />
+    <MESSAGE value="Create EVERY Revenant Horror drop; Create cosmetic rarity" />
+    <MESSAGE value="Fix slayer xp not saving to right location" />
+    <MESSAGE value="Clean up leveling and added comments" />
+    <MESSAGE value="Boing! I'm so pro rn" />
+    <MESSAGE value="Added stoof" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added stoof" />
+  </component>
+</project>
