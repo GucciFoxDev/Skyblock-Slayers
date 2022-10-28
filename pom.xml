@@ -88,10 +88,5 @@
             <version>1.18.24</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>io.github.kojiv</groupId>
-            <artifactId>developerkit</artifactId>
-            <version>1.4.3</version>
-        </dependency>
     </dependencies>
 </project>
