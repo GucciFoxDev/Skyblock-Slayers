@@ -8,7 +8,7 @@ public class ZombieXpCheck {
     /**
      *
      * @param player player to check
-     * @param zombieSlayerLevelManager enderman level manager
+     * @param zombieSlayerLevelManager zombie level manager
      */
     public static void xpCheckZombie(Player player, ZombieSlayerLevelManager zombieSlayerLevelManager) {
         // Get the players zombie xp

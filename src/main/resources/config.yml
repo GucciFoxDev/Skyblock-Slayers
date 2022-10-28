@@ -1,16 +1,18 @@
-# Config file!
+## Configuration Settings ##
+
 
 ## Damage indicator ##
 damage-indicator: true
 damage-indocator-format: "#,###.0"
 
 ## Utilities ##
-permanent-id: '03ce5f3d-021a-4a52-9107-63a81a36b426'
+batphone-secret: '03ce5f3d-021a-4a52-9107-63a81a36b426'
 
 
 ## Zombie Slayer XP Level Requirements ##
 Zombie:
   Levels:
+    maxLevel: 9
     1:
       xp: 5
     2:
@@ -33,6 +35,7 @@ Zombie:
 ## Spider Slayer XP Level Requirements ##
 Spider:
   Levels:
+    maxLevel: 9
     1:
       xp: 5
     2:
@@ -55,6 +58,7 @@ Spider:
 ## Wolf Slayer XP Level Requirements ##
 Wolf:
   Levels:
+    maxLevel: 9
     1:
       xp: 10
     2:
@@ -77,6 +81,7 @@ Wolf:
 ## Enderman Slayer XP Level Requirements ##
 Enderman:
   Levels:
+    maxLevel: 9
     1:
       xp: 10
     2:
@@ -99,6 +104,7 @@ Enderman:
 ## Blaze Slayer XP Level Requirements ##
 Blaze:
   Levels:
+    maxLevel: 9
     1:
       xp: 10
     2:

@@ -8,7 +8,7 @@ public class SpiderXpCheck {
     /**
      *
      * @param player player to check
-     * @param spiderSlayerLevelManager enderman level manager
+     * @param spiderSlayerLevelManager spider level manager
      */
     public static void xpCheckSpider(Player player, SpiderSlayerLevelManager spiderSlayerLevelManager) {
         // Get the players spider xp

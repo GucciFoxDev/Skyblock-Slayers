@@ -21,7 +21,7 @@ public class BatphoneCommand implements CommandExecutor {
                 player.sendMessage(ChatColor.RED + "Missing arguments!");
                 return true;
             }
-            if (args[0].equals(Slayers.getPlugin().getConfig().getString("permanent-id"))) {
+            if (args[0].equals(Slayers.getPlugin().getConfig().getString("batphone-secret"))) {
                 if (Quest.quest.containsKey(player.getUniqueId())) {
                     new QuestMenu(new PlayerMenuUtility(player), false).open();
                 } else {

@@ -11,7 +11,7 @@ public class BlazeXpCheck {
     /**
      *
      * @param player player to check
-     * @param blazeSlayerLevelManager enderman level manager
+     * @param blazeSlayerLevelManager blaze level manager
      */
     public static void xpCheckBlaze(Player player, BlazeSlayerLevelManager blazeSlayerLevelManager) {
         // Get the players blaze xp

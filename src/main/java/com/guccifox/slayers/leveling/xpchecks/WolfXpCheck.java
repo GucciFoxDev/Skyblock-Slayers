@@ -8,7 +8,7 @@ public class WolfXpCheck {
     /**
      *
      * @param player player to check
-     * @param wolfSlayerLevelManager enderman level manager
+     * @param wolfSlayerLevelManager wolf level manager
      */
     public static void xpCheckWolf(Player player, WolfSlayerLevelManager wolfSlayerLevelManager) {
         // Get the players wolf xp

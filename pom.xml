@@ -91,7 +91,7 @@
         <dependency>
             <groupId>io.github.kojiv</groupId>
             <artifactId>developerkit</artifactId>
-            <version>1.2</version>
+            <version>1.4.3</version>
         </dependency>
     </dependencies>
 </project>
